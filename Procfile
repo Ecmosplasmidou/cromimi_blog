@@ -1,0 +1,1 @@
+web: gunicorn cromimi_blog.wsgi --log-file - 
